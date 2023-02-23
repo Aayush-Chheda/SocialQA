@@ -65,37 +65,32 @@ $ npm start // in both the terminal 1st backend and then frontend
 
 ## Screen Shots
 <h3>Login Page</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/login.PNG" width="700">
+<img width="700" alt="login" src="https://user-images.githubusercontent.com/64545068/220835719-254a2cc9-139f-4032-907d-2220dfe71bad.PNG">
 <br>
 
 <h3>Home Page</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/homepage.PNG" width="700">
+<img width="700" alt="homepage" src="https://user-images.githubusercontent.com/64545068/220835675-76eb8800-5a0a-415b-bb5e-386765bfccef.PNG">
 <br>
 
 <h3>Add Question</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/AddQuestion.PNG" width="700">
+<img width="700" alt="AddQuestion" src="https://user-images.githubusercontent.com/64545068/220835347-e0f6e3e9-59d3-4aaf-97ba-1f1391a28edb.PNG">
 <br>
 
 <h3>Questions and Answer Modals</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/QA.PNG" width="700">
+<img width="700" alt="QA" src="https://user-images.githubusercontent.com/64545068/220836175-9408ecee-7355-432d-bcac-525e377b5bdb.PNG">
 <br>
 
 <h3>Spaces `[Eg : Music]`</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/Spaces.PNG" width="700">
+<img width="700" alt="Spaces" src="https://user-images.githubusercontent.com/64545068/220836101-fd23dd2f-9a24-455e-8f62-10a8b9c5ecca.PNG">
 <br>
-
 
 <h3>All Users</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/AllUsers.PNG" width="700">
+<img width="700" alt="AllUsers" src="https://user-images.githubusercontent.com/64545068/220835619-b6468a8e-e419-443d-8d38-c5eedaf0eb79.PNG">
 <br>
-
 
 <h3>Users Feeds</h3>
-<img align="center" src="https://github.com/KrutikaBhatt/SocialQA/blob/master/screenshots/MyFeed.PNG" width="700">
+<img width="700" alt="MyFeed" src="https://user-images.githubusercontent.com/64545068/220835816-4834de08-785e-455d-a1b7-5dba2668e8ac.PNG">
 <br>
-
-
-
 
 ## Future Scope
 1. Implementation of Search feature.
